@@ -91,8 +91,9 @@ A discussão dos resultados também pode ser feita aqui na medida em que os resu
 ~~~
 
 
-<figure class="image"><img src="{{https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2017.svg?raw=true}}" alt="{{Consumo Ponta e Fora da Ponta - 2017.}}"><figcaption>{{ include.description }}</figcaption></figure>
-
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2017.svg?raw=true) |
+|:--:| 
+| Consumo Ponta e Fora da Ponta - 2017. |
 
 
 ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true)
