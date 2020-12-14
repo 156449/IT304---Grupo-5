@@ -95,19 +95,19 @@ A discussão dos resultados também pode ser feita aqui na medida em que os resu
 
 A Figura 1a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2017. A Figura 1b apresenta, de forma proporcional, qual a contribuição da energia consumida nos períodos de ponta e fora de ponta para a energia total consumida por mês nesse mesmo ano. Pode ser observado que em todos os meses do ano de 2017 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/data/Consumo2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Consumo2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ProporçãoConsumo2017.svg?raw=true) |
 |:--:|:--:|
 | Figura 1a: Consumo Ponta e Fora da Ponta | Figura 1b: Percentual de Consumo Ponta e Fora da Ponta |
 
 A Figura 2a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2018. A Figura 2b apresenta, de forma proporcional, qual a contribuição da energia consumida nos períodos de ponta e fora de ponta para a energia total consumida por mês nesse mesmo ano. Pode ser observado que em todos os meses do ano de 2018 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2018.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Consumo2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ProporçãoConsumo2018.svg?raw=true) |
 |:--:|:--:|
 | Figura 2a: Consumo Ponta e Fora da Ponta | Figura 2b: Percentual de Consumo Ponta e Fora da Ponta |
 
 A Figura 3a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2019. A Figura 3b apresenta, de forma proporcional, qual a contribuição da energia consumida nos períodos de ponta e fora de ponta para a energia total consumida por mês nesse mesmo ano. Pode ser observado que em todos os meses do ano de 2019 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2019.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2019.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Consumo2019.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ProporçãoConsumo2019.svg?raw=true) |
 |:--:|:--:|
 | Figura 3a: Consumo Ponta e Fora da Ponta | Figura 3b: Percentual de Consumo Ponta e Fora da Ponta |
 
@@ -115,19 +115,19 @@ A Figura 3a apresenta o total mensal de energia consumida, em MWh, nos períodos
 
 A Figura 4a apresenta os custos mensais da energia consumida, em R$, nos períodos de ponta e fora da ponta para o ano de 2017. A Figura 4b apresenta o percentual dos custos totais mensais de energia consumida considerando os períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2017 o custo da energia consumida no período de ponta representa aproximadamente 25% dos custos totais com a energia consumida naquele mês. Vale ressaltar que nesse ano o kWh no período de ponta custou em média R$ 1,1508 e no período fora de ponta este valor custou em média R$ 0,3207.
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Proporção2017.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Custos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Proporção2017.svg?raw=true) |
 |:--:|:--:|
 | Figura 4a: Consumo Ponta e Fora da Ponta | Figura 4b: Percentual de Consumo Ponta e Fora da Ponta |
 
 A Figura 5a apresenta os custos mensais da energia consumida, em R$, nos períodos de ponta e fora da ponta para o ano de 2018. A Figura 5b apresenta o percentual dos custos totais mensais de energia consumida considerando os períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2018 o custo da energia consumida no período de ponta representa aproximadamente 25% dos custos totais com a energia consumida naquele mês. Vale ressaltar que nesse ano o kWh no período de ponta custou em média R$ 1,2653 e no período fora de ponta este valor custou em média R$ 0,3530.
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Proporção2018.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Custos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Proporção2018.svg?raw=true) |
 |:--:|:--:|
 | Figura 5a: Consumo Ponta e Fora da Ponta | Figura 5b: Percentual de Consumo Ponta e Fora da Ponta |
 
 A Figura 6a apresenta os custos mensais da energia consumida, em R$, nos períodos de ponta e fora da ponta para o ano de 2019. A Figura 6b apresenta o percentual dos custos totais mensais de energia consumida considerando os períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2019 o custo da energia consumida no período de ponta representa aproximadamente 25% dos custos totais com a energia consumida naquele mês. Vale ressaltar que nesse ano o kWh no período de ponta custou em média R$ 1,3427 e no período fora de ponta este valor custou em média R$ 0,3900.
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2019.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Proporção2019.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Custos2019.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Proporção2019.svg?raw=true) |
 |:--:|:--:|
 | Figura 6a: Consumo Ponta e Fora da Ponta | Figura 6b: Percentual de Consumo Ponta e Fora da Ponta |
 
