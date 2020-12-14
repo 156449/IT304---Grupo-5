@@ -1,5 +1,4 @@
 # IT304 - Tópicos em Sistemas de Energia Elétrica I
-
 ## Comercialização de Energia Elétrica para Grandes Clientes
 
 # Projeto: Pré-análise UFRJ/Centro de Tecnologia
@@ -16,7 +15,10 @@ Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis
 ~~~
 
 # Equipe
-* `<nome completo>` - `<RA>`
+ Douglas Machado Côrtes - RA: 233270
+ Hever Alcahuaman Villanueva - RA: 228105
+ Luís Henrique Bandória - RA: 155449
+ Roberto Tilhaqui Junior - RA: 233671 
 
 # Vídeo do Projeto
 `<coloque um link para o vídeo apresentado o projeto.>`
