@@ -150,14 +150,14 @@ Para o cálculo do fator de potência avaliado de hora em hora, foram utilizados
 | Figura 7a: Curva do Fator de Potência 2017 | Figura 7b: Curva do Fator de Potência 2018 |Figura 7c: Curva do Fator de Potência 2019 |
 
 
-As Figuras 7a-c mostram as curvas do fator de potência durante um dia para durante o período de 2017 a 2019, respectivamente. O horário de ponta é das 17h30 às 20h30 conforme estipulado pelo posto de tarifação da concessionária Light  \cite{ANEEL_1}, que está marcada com uma caixa roxa. Observa-se que os valores de fator de potência obtidos na faixa de 6:30 a 23:59 horas estão abaixo do valor 0,90. Em particular, verifica-se que às sextas-feiras e sábados são obtidos os valores mínimos de fator de potência, sendo o valor mínimo 0,663 obtido em 2018. Por outro lado, na faixa dos horários de ponta, obteve-se um fator de potência mínimo de 0,727 em. 2018. Essa análise verifica se os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira (PRODIST – Módulo 8 e ANEEL Res. 414)
+As Figuras 7a-c mostram as curvas do fator de potência durante um dia para durante o período de 2017 a 2019, respectivamente. O horário de ponta é das 17h30 às 20h30 conforme estipulado pelo posto de tarifação da concessionária Light[2], que está marcada com uma caixa roxa. Observa-se que os valores de fator de potência obtidos na faixa de 6:30 a 23:59 horas estão abaixo do valor 0,90. Em particular, verifica-se que às sextas-feiras e sábados são obtidos os valores mínimos de fator de potência, sendo o valor mínimo 0,663 obtido em 2018. Por outro lado, na faixa dos horários de ponta, obteve-se um fator de potência mínimo de 0,727 em. 2018. Essa análise verifica se os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira (PRODIST – Módulo 8 e ANEEL Res. 414)[3]
 
 ### Avaliação mensal
 O fator de potência será calculado através de valores de potência/energia ativa e reativa medidos para o período de faturamento (tarifa convencional).
 
 Para o cálculo do fator de potência por mês, foram utilizados os dados de demanda de potência ativa e reativa durante o período de 2017 a 2019, que possuem registro a cada 15 minutos. O valor considerado do fator de potência para uma determinado mês foi determinado como a média dos dados do mês correspondente. Os resultados obtidos foram ilustrados na Figura 8
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/FP_Mensal.svg?raw=true) | 
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/FP_Mensal.svg?raw=true) | 
 |:--:|
 | Figura 8: Fator de Potência Mês/Ano - Avaliação Mensal | 
 
@@ -165,23 +165,23 @@ Na Figura 8 são apresentados os valores de fator de potência obtidos nos difer
 
 ### Faturamento da Energia Reativa Excedente
 
-Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência  \cite{ANEEL_3}. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme á llegislação brasileira. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
+Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência [1]. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme á llegislação brasileira. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
 
 A seguir, são apresentados os gráficos de barras do faturamento do excedente de energia reativa [R\$], obtidos nas contas mensais de energia durante o período de 2017 a 2019:
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2019.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativos2019.svg?raw=true) |
 |:--:|:--:|:--:|
 | Figura 9a: Facturamento da Energia Reativa Excedente 2017 | Figura 9b: Facturamento da Energia Reativa Excedente 2018 |Figura 9c: Facturamento da Energia Reativa Excedente 2019 |
 
 Nas Figuras 9a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Figura 10a. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura 10b.
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Resumo_FER.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativosResumo.svg?raw=true) | 
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Resumo_FER.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativosResumo.svg?raw=true) | 
 |:--:|:--:|
 | Figura 10a: Facturamento da Energia Reativa Excedente Total |Figura 10b: Facturamento da Energia Reativa Excedente Total |
 
 
 ### Medidas para Redução de Custo por Energia Reativa Excedente
-Nesta subseção, descreveremos algumas medidas para reduzir o custo da energia reativa excedente \cite{Silva2012TCC}, uma vez que foi verificado que nossa unidade de carga (CT) estudada possui um fator de potência abaixo do valor mínimo.
+Nesta subseção, descreveremos algumas medidas para reduzir o custo da energia reativa excedente \cite{Silva2012TCC}, uma vez que foi verificado que nossa unidade de carga (CT) estudada possui um fator de potência abaixo do valor mínimo[5].
 
 #### Substituição de equipamentos por outros mais eficientes: 
 É a readequação do sistema de iluminação e climatização, até a substituição dos motores por outros mais eficientes, existem várias tecnologias no mercado para melhorar a eficiência.
