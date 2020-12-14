@@ -169,7 +169,7 @@ A seguir, são apresentados os gráficos de barras do faturamento do excedente d
 |:--:|:--:|:--:|
 | Figura 9a: Facturamento da Energia Reativa Excedente 2017 | Figura 9b: Facturamento da Energia Reativa Excedente 2018 |Figura 9c: Facturamento da Energia Reativa Excedente 2019 |
 
-Nas Figuras 9a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Tabela~\ref{Tab:Resumo_AR}. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura\,\ref{fig:ExcedenteReativosResumo.eps}.
+Nas Figuras 9a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Figura 10a. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura 10b.
 
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Resumo_FER.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativosResumo.svg?raw=true) | 
 |:--:|:--:|
