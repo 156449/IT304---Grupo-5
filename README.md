@@ -143,8 +143,10 @@ Para o cálculo do fator de potência avaliado de hora em hora, foram utilizados
 
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
 |:--:|:--:|:--:|
-| Figura 7a: Consumo Ponta e Fora da Ponta | Figura 7b: Percentual de Consumo Ponta e Fora da Ponta |Figura 7c: Consumo Ponta e Fora da Ponta |
+| Figura 7a: Curva do Fator de Potência 2017 | Figura 7b: Curva do Fator de Potência 2018 |Figura 7c: Curva do Fator de Potência 2019 |
 
+
+As Figuras 7a-c mostram as curvas do fator de potência durante um dia para durante o período de 2017 a 2019, respectivamente. O horário de ponta é das 17h30 às 20h30 conforme estipulado pelo posto de tarifação da concessionária Light  \cite{ANEEL_1}, que está marcada com uma caixa roxa. Observa-se que os valores de fator de potência obtidos na faixa de 6:30 a 23:59 horas estão abaixo do valor 0,90. Em particular, verifica-se que às sextas-feiras e sábados são obtidos os valores mínimos de fator de potência, sendo o valor mínimo 0,663 obtido em 2018. Por outro lado, na faixa dos horários de ponta, obteve-se um fator de potência mínimo de 0,727 em. 2018. Essa análise verifica se os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira (PRODIST – Módulo 8 e ANEEL Res. 414)
 
 
 # Conclusões
