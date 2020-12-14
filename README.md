@@ -163,6 +163,7 @@ Na Figura 8 são apresentados os valores de fator de potência obtidos nos difer
 
 Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência  \cite{ANEEL_3}. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme pode ser observado na equação \eqref{eq:FER_1}. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
 
+$$  F_{drp} = \left [  \max_{i=1}^n \left ( D_{at} \times \frac{0,92}{F_{pp}} \right ) - D_{fp}  \right ] \times T_{dap}  ; F_{erp} = \sum_{i=1}^{n}\left [  C_{at} \times \left (  \frac{0,92}{F_{pp}} -1 \right )   \right ] \times T_{eap} $$
 
 # Conclusões
 ~~~
