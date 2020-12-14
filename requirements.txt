@@ -1,0 +1,7 @@
+pandas
+matplotlib.pyplot
+numpy
+math
+matplotlib.ticker
+matplotlib
+random
