@@ -1,5 +1,4 @@
-# IT304 - Tópicos em Sistemas de Energia Elétrica I
-## Comercialização de Energia Elétrica para Grandes Clientes
+# IT304 - Tópicos em Sistemas de Energia Elétrica I \n Comercialização de Energia Elétrica para Grandes Clientes
 
 # Projeto: Pré-análise UFRJ/Centro de Tecnologia
 
