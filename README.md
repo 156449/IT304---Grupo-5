@@ -14,9 +14,9 @@ Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis
 ~~~
 
 # Equipe
- Douglas Machado Côrtes - RA: 233270
- Hever Alcahuaman Villanueva - RA: 228105
- Luís Henrique Bandória - RA: 155449
+ Douglas Machado Côrtes - RA: 233270 \\
+ Hever Alcahuaman Villanueva - RA: 228105 \\
+ Luís Henrique Bandória - RA: 155449 \\
  Roberto Tilhaqui Junior - RA: 233671 
 
 # Vídeo do Projeto
