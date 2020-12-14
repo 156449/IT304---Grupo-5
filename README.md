@@ -115,9 +115,9 @@ A Figura 3a apresenta o total mensal de energia consumida, em MWh, nos períodos
 
 A Figura 4a apresenta os custos mensais da energia consumida, em R$, nos períodos de ponta e fora da ponta para o ano de 2017. A Figura 4b apresenta o percentual dos custos totais mensais de energia consumida considerando os períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2017 o custo da energia consumida no período de ponta representa aproximadamente 25% dos custos totais com a energia consumida naquele mês. Vale ressaltar que nesse ano o kWh no período de ponta custou em média R$ 1,1508 e no período fora de ponta este valor custou em média R$ 0,3207.
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos_2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoCusos2017.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoCustos2017.svg?raw=true) |
 |:--:|:--:|
-| Figura 3a: Consumo Ponta e Fora da Ponta | Figura 3b: Percentual de Consumo Ponta e Fora da Ponta |
+| Figura 34a: Consumo Ponta e Fora da Ponta | Figura 4b: Percentual de Consumo Ponta e Fora da Ponta |
 
 # Conclusões
 ~~~
