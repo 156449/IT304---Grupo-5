@@ -1,6 +1,6 @@
-# IT304 - Tópicos em Sistemas de Energia Elétrica I \n Comercialização de Energia Elétrica para Grandes Clientes
+# IT304 - Tópicos em Sistemas de Energia Elétrica I - Comercialização de Energia Elétrica para Grandes Clientes
 
-# Projeto: Pré-análise UFRJ/Centro de Tecnologia
+# Projeto: Pré-análise das Faturas - UFRJ/Centro de Tecnologia
 
 # Descrição Resumida do Projeto
 
@@ -31,11 +31,13 @@ Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis
 ~~~
 <Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.>
 ~~~
+Este estudo tem como objetivo realizar diferentes análises preliminares para determinar a possibilidade de migração de um contrato de energia elétrica do Ambiente de Contratação Regulada para o Ambiente de Contratação Livre (ACR/ACL) como medida econômica. Esta análise está limitada ao Centro de Tecnologia da UFRJ, unidade consumidora escolhida para análise.
 
 ## Objetivos do projeto
 ~~~
 <Como seu projeto propôs abordar o problema apresentado.>
 ~~~
+Os objetivos deste estudo se resumem em verificar se há a possibilidade de migração de um contrato de energia elétrica do Ambiente de Contratação Regulada para o Ambiente de Contratação Livre (ACR/ACL) para a unidade consumidora escolhida. Para tal, serão realizadas análises acerca da qualidade dos dados disponíveis, como por exemplo se há ou não a ausência de faturas. Em seguida, serão realizadas análises buscando identificar o perfil de consumo da unidade consumidora em questão considerando o consumo nos períodos de ponta e fora da ponta, além de uma análise dos custos decorrentes deste perfil de consumo. Serão realizadas também análises sobre a demanda contratada, buscando identificar se esta está adequada para a unidade consumidora em questão ou se há a necessidade de uma revisão da demanda contrada. Por fim, serão realizadas análises sobre o fator de potência da unidade consumidora, buscando identificar se o fator de potência esta dentro dos limites estabelcidos pelas normas ou se há a necessidade da realização da correção do fator de potência da instalação. Todas as análises serão realizadas para os anos de 2017, 2018 e 2019.
 
 # Recursos e Métodos
 
@@ -43,16 +45,17 @@ Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis
 `<Elencar bases de dados utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 Base de Dados | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Base 1 | http://base1.org/ | `<Descrição da Base 1 e para que ela foi usada no projeto.>`
-Base 2 | http://base2.org/ | `<Descrição da Base 2 e para que ela foi usada no projeto.>`
+Ano de 2017 | https://drive.google.com/file/d/1nAatA3B2JmC2uIUY10GiAe9smT-1Q2Cc/view?usp=sharing | Faturas Digitalizadas para o ano de 2017.
+Ano de 2018 | https://drive.google.com/file/d/1VvRmQD-MoJczpMMejnxBmGbnM0nYHPMo/view?usp=sharing | Faturas Digitalizadas para o ano de 2018.
+Ano de 2019 | https://drive.google.com/file/d/17Gyi0AzNh-rDwgOLgIPcGGlBRSPz0wwe/view?usp=sharing | Faturas Digitalizadas para o ano de 2019.
 
 ## Ferramentas
 
 `<Elencar ferramentas utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Ferramenta 1 | http://ferramenta1.org/ | `<Descrição da Ferramenta 1 e para que ela foi usada no projeto.>`
-Ferramenta 2 | http://ferramenta2.org/ | `<Descrição da Ferramenta 2 e para que ela foi usada no projeto.>`
+Google Sheets | https://www.google.com/sheets/about/ | Ferramenta para construção de planilhas de dados online. Usada para digitalizar as faturas de energia.
+Jupyter Notebook | https://jupyter.org/ | Editor Python no formato Notebook. Usada para gerar as curvas/gráficos apresentados no trabalho.
 
 # Metodologia
 ~~~
