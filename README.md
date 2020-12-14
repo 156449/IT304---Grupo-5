@@ -167,13 +167,13 @@ A seguir, são apresentados os gráficos de barras do faturamento do excedente d
 
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2019.svg?raw=true) |
 |:--:|:--:|:--:|
-| Figura 9a: CFacturamento da Energia Reativa Excedente 2017 | Figura 9b: Facturamento da Energia Reativa Excedente 2018 |Figura 9c: Facturamento da Energia Reativa Excedente 2019 |
+| Figura 9a: Facturamento da Energia Reativa Excedente 2017 | Figura 9b: Facturamento da Energia Reativa Excedente 2018 |Figura 9c: Facturamento da Energia Reativa Excedente 2019 |
 
-Nas Figuras 8a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Tabela~\ref{Tab:Resumo_AR}. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura\,\ref{fig:ExcedenteReativosResumo.eps}.
+Nas Figuras 9a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Tabela~\ref{Tab:Resumo_AR}. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura\,\ref{fig:ExcedenteReativosResumo.eps}.
 
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Resumo_FER.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativosResumo.svg?raw=true) | 
 |:--:|:--:|
-| Figura 11a: CFacturamento da Energia Reativa Excedente 2017 |Figura 11b: CFacturamento da Energia Reativa Excedente 2017 |
+| Figura 10a: Facturamento da Energia Reativa Excedente Total |Figura 10b: Facturamento da Energia Reativa Excedente Total |
 
 
 ### Medidas para Redução de Custo por Energia Reativa Excedente
@@ -181,6 +181,17 @@ Nesta subseção, descreveremos algumas medidas para reduzir o custo da energia 
 
 #### Substituição de equipamentos por outros mais eficientes: 
 É a readequação do sistema de iluminação e climatização, até a substituição dos motores por outros mais eficientes, existem várias tecnologias no mercado para melhorar a eficiência.
+
+#### Correção do fator de potência:
+As primeiras medidas que se deve aplicar para correção de baixo fator de potência são aquelas relacionadas às condições operacionais e as características dos equipamentos. Ou seja, dentro do possível, atacar as causas raízes: motores operando em vazio (sem carga mecânica), motores super dimensionados, transformadores operando em vazio ou com pequenas cargas, transformadores super dimensionados, nível de tensão acima da nominal e grande quantidade de motores de pequena potência; que levam a esse baixo fator de potência.
+
+Outra forma de se realizar a correção do fator de potência é por meio de capacitores estáticos, o que constitui a solução mais prática, e em geral é a mais adotada.
+
+#### Sistemas de Gestão da Energia:
+São os processos necessários para melhorar o desempenho de energia, incluindo eficiência, uso, consumo e intensidade da energia. Almeja-se com essa norma reduções nos custos de energia, nas emissões de gases do efeito estufa e em outros impactos ambientais, por meio da gestão sistemática da energia.
+
+
+
 
 # Conclusões
 ~~~
