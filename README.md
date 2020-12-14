@@ -165,9 +165,12 @@ Existem dois tipos de faturamento de energia reativa excedente: avaliação hor�
 
 A seguir, são apresentados os gráficos de barras do faturamento do excedente de energia reativa [R\$], obtidos nas contas mensais de energia durante o período de 2017 a 2019:
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2019.svg?raw=true) |
 |:--:|:--:|:--:|
-| Figura 8a: Curva do Fator de Potência 2017 | Figura 8b: Curva do Fator de Potência 2018 |Figura 8c: Curva do Fator de Potência 2019 |
+| Figura 8a: CFacturamento da Energia Reativa Excedente 2017 | Figura 8b: Facturamento da Energia Reativa Excedente 2018 |Figura 8c: Facturamento da Energia Reativa Excedente 2019 |
+
+Nas Figuras 8a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Tabela~\ref{Tab:Resumo_AR}. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura\,\ref{fig:ExcedenteReativosResumo.eps}.
+
 
 # Conclusões
 ~~~
