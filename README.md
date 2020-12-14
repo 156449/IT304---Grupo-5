@@ -46,14 +46,15 @@ Os objetivos deste estudo se resumem em verificar se há a possibilidade de migr
 ## Bases de Dados
 `<Elencar bases de dados utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 
-A Tabela 1 apresenta uma descrição dos dados utilizados no projeto referente as faturas de energia dos anos de 2017, 2018 e 2019, bem como traz um link para encontrar os dados disponíveis no aplicativo Google Drive. Além dos links, os dados estão disponíveis na pasta /data no formato .xlsx.
+A Tabela 1 apresenta os dados referentes às faturas de energia dos anos de 2017, 2018 e 2019, bem como traz um link para acessar esses dados através do aplicativo Google Drive. Além dos links, os dados estão disponíveis na pasta /data no formato .xlsx.
 
-Tabela 1: Dados das Faturas de Energia Elétrica
-Base de Dados | Endereço na Web | Resumo descritivo e uso
------ | ----- | -----
-Ano de 2017 | https://drive.google.com/file/d/1nAatA3B2JmC2uIUY10GiAe9smT-1Q2Cc/view?usp=sharing | Faturas Digitalizadas para o ano de 2017.
-Ano de 2018 | https://drive.google.com/file/d/1VvRmQD-MoJczpMMejnxBmGbnM0nYHPMo/view?usp=sharing | Faturas Digitalizadas para o ano de 2018.
-Ano de 2019 | https://drive.google.com/file/d/17Gyi0AzNh-rDwgOLgIPcGGlBRSPz0wwe/view?usp=sharing | Faturas Digitalizadas para o ano de 2019.
+Tabela 1: Dados das Faturas de Energia Elétrica <br/>
+
+| Base de Dados | Endereço na Web | Resumo descritivo e uso |
+| ----- | ----- | ----- |
+| Ano de 2017 | https://drive.google.com/file/d/1nAatA3B2JmC2uIUY10GiAe9smT-1Q2Cc/view?usp=sharing | Faturas Digitalizadas para o ano de 2017. |
+| Ano de 2018 | https://drive.google.com/file/d/1VvRmQD-MoJczpMMejnxBmGbnM0nYHPMo/view?usp=sharing | Faturas Digitalizadas para o ano de 2018. |
+| Ano de 2019 | https://drive.google.com/file/d/17Gyi0AzNh-rDwgOLgIPcGGlBRSPz0wwe/view?usp=sharing | Faturas Digitalizadas para o ano de 2019. |
 
 ## Ferramentas
 
@@ -213,16 +214,16 @@ Na análise de reativos, foi verificado que nossa unidade de carga (CT/UFRJ) pos
 ~~~
 A próxima etapa deste trabalho apresentará um estudo de viabilidade de migração para o Mercado Livre, utilizando preferencialmente técnicas de Data Science, Machine Learning, Forecasting, entre outras, para fundamentar a sua análise e corroborar a possibilidade da migração.
 
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+
 # Referências
-[1] ANEEL. RESOLUÇÃO NORMATIVA Nº 414. 11. ed. [S.l.]: AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA, 2010.
+[1] ANEEL. RESOLUÇÃO NORMATIVA Nº 414. 11. ed. [S.l.]: AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA, 2010
 
-[2] ANEEL. Postos Tarifários. 2020. [Online; accessed 12-Dezembro-2020]. Disponível em: <www.aneel.gov.br/postos-tarifarios>.
-
-[3] ANEEL. Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional– PRODIST. 11. ed. [S.l.]: Módulo 8 – Qualidade da Energia Elétrica, 2020.
-
-[4] FILHO, J. Instalacoes eletricas industriais. Livros Tecnicos e Cientificos, 2002.ISBN 9788521612865. Disponível em: <https://books.google.com.br/books?id=Bk5LAAAACAAJ>.
-
-[5] SILVA, D. M. Análise Qualitativa de Medidas para Redução de Custos Industriais com Energia Elétrica. Dissertação (Mestrado) — Universidade de São Paulo, Escola de Engenharia de São Carlos, Brasil, 2012.
 
 # Model for Project Presentation and Folder Structure (in Portuguese)
 
