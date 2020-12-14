@@ -48,10 +48,10 @@ Os objetivos deste estudo se resumem em verificar se há a possibilidade de migr
 
 A Tabela 1 apresenta os dados referentes às faturas de energia dos anos de 2017, 2018 e 2019, bem como traz um link para acessar esses dados através do aplicativo Google Drive. Além dos links, os dados estão disponíveis na pasta /data no formato .xlsx.
 
-| ----- | Tabela 1: Dados das Faturas de Energia Elétrica | ----- |
-| ----- | ----- | ----- |
+|  | Tabela 1: Dados das Faturas de Energia Elétrica |  |
+|  |  |  |
 | Base de Dados | Endereço na Web | Resumo descritivo e uso |
-| ----- | ----- | ----- |
+|  |  |  |
 | Ano de 2017 | https://drive.google.com/file/d/1nAatA3B2JmC2uIUY10GiAe9smT-1Q2Cc/view?usp=sharing | Faturas Digitalizadas para o ano de 2017. |
 | Ano de 2018 | https://drive.google.com/file/d/1VvRmQD-MoJczpMMejnxBmGbnM0nYHPMo/view?usp=sharing | Faturas Digitalizadas para o ano de 2018. |
 | Ano de 2019 | https://drive.google.com/file/d/17Gyi0AzNh-rDwgOLgIPcGGlBRSPz0wwe/view?usp=sharing | Faturas Digitalizadas para o ano de 2019. |
