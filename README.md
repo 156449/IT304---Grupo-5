@@ -93,10 +93,10 @@ A discussão dos resultados também pode ser feita aqui na medida em que os resu
 
 ### Consumo de Energia
 
-A Figura 1 apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2017.
+A Figura 1a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2017. A Figura 1b apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2017.
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true) |
 |:--:|:--:|
-| Figura 1: Consumo Ponta e Fora da Ponta - 2017 | Figura 2: Percentual de Consumo Ponta e Fora da Ponta - 2017 |
+| Figura 1a: Consumo Ponta e Fora da Ponta | Figura 1b: Percentual de Consumo Ponta e Fora da Ponta |
 
  A Figura 2 apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2017.
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true) |
