@@ -1,3 +1,5 @@
+![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2017.svg?raw=true)
+
 # IT304 - Tópicos em Sistemas de Energia Elétrica I - Comercialização de Energia Elétrica para Grandes Clientes
 
 # Projeto: Pré-análise das Faturas - UFRJ/Centro de Tecnologia
