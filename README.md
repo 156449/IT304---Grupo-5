@@ -141,13 +141,11 @@ O fator de potência será calculado através dos valores de potência/energia a
 
 Para o cálculo do fator de potência avaliado de hora em hora, foram utilizados os dados de demanda de potência ativa e reativa durante o período de 2017 a 2019, que possuem registro a cada 15 minutos. O valor considerado do fator de potência para uma determinada hora foi determinado como a média dos dados entre uma hora e outra. Os resultados obtidos foram ilustrados nas Figuras 7a-c
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) |
-|:--:|:--:|
-| Figura 7a: Consumo Ponta e Fora da Ponta | Figura 7b: Percentual de Consumo Ponta e Fora da Ponta |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
+|:--:|:--:|:--:|
+| Figura 7a: Consumo Ponta e Fora da Ponta | Figura 7b: Percentual de Consumo Ponta e Fora da Ponta |Figura 7c: Consumo Ponta e Fora da Ponta |
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
-|:--:|
-| Figura 7c: Consumo Ponta e Fora da Ponta |
+
 
 # Conclusões
 ~~~
