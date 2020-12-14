@@ -1,4 +1,4 @@
-# IT304 - Tópicos em Sistemas de Energia Elétrica I - Comercialização de Energia Elétrica para Grandes Clientes
+# IT304 - Tópicos em Sistemas de Energia Elétrica I <br/> Comercialização de Energia Elétrica para Grandes Clientes
 
 # Projeto: Pré-análise das Faturas - UFRJ/Centro de Tecnologia
 
@@ -14,10 +14,10 @@ Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis
 ~~~
 
 # Equipe
- Douglas Machado Côrtes - RA: 233270 \\
- Hever Alcahuaman Villanueva - RA: 228105 \\
- Luís Henrique Bandória - RA: 155449 \\
- Roberto Tilhaqui Junior - RA: 233671 
+ Douglas Machado Côrtes - RA: 233270 <br/>
+ Hever Alcahuaman Villanueva - RA: 228105 <br/>
+ Luís Henrique Bandória - RA: 155449 <br/>
+ Roberto Tilhaqui Junior - RA: 233671 <br/>
 
 # Vídeo do Projeto
 `<coloque um link para o vídeo apresentado o projeto.>`
