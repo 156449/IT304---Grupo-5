@@ -93,44 +93,23 @@ A discussão dos resultados também pode ser feita aqui na medida em que os resu
 
 ### Consumo de Energia
 
-A Figura 1a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2017. A Figura 1b apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2017.
+A Figura 1a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2017. A Figura 1b apresenta a porcentagem da energia total que foi consumida nos períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2017 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês
+
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true) |
 |:--:|:--:|
 | Figura 1a: Consumo Ponta e Fora da Ponta | Figura 1b: Percentual de Consumo Ponta e Fora da Ponta |
 
- A Figura 2 apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2017.
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true) |
-|:--:| 
-| Figura 2: Percentual de Consumo Ponta e Fora da Ponta - 2017 |
+A Figura 2a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2018. A Figura 2b apresenta a porcentagem da energia total que foi consumida nos períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2018 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês
 
-Pode ser observado que em todos os meses do ano de 2017 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês. A Figura 3 apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2018.
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2018.svg?raw=true) |
-|:--:| 
-| Figura 3: Consumo Ponta e Fora da Ponta - 2018 |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2018.svg?raw=true) |
+|:--:|:--:|
+| Figura 2a: Consumo Ponta e Fora da Ponta | Figura 2b: Percentual de Consumo Ponta e Fora da Ponta |
 
- A Figura 4 apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2018.
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2018.svg?raw=true) |
-|:--:| 
-| Figura 4: Percentual de Consumo Ponta e Fora da Ponta - 2018 |
+A Figura 3a apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2019. A Figura 3b apresenta a porcentagem da energia total que foi consumida nos períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2019 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês
 
-Pode ser observado que, assim como no ano de 2017, em todos os meses do ano de 2018 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês. A Figura 5 apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2019.
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2019.svg?raw=true) |
-|:--:| 
-| Figura 5: Consumo Ponta e Fora da Ponta - 2019 |
-
- A Figura 6 apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2019.
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2019.svg?raw=true) |
-|:--:| 
-| Figura 6: Percentual de Consumo Ponta e Fora da Ponta - 2019 |
-
-Pode ser observado que, assim como nos anos de 2017 e 2018, em todos os meses do ano de 2019 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês.
-
-![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2018.svg?raw=true)
-![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2018.svg?raw=true)
-![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2019.svg?raw=true)
-![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2019.svg?raw=true)
-
-
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2019.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2019.svg?raw=true) |
+|:--:|:--:|
+| Figura 3a: Consumo Ponta e Fora da Ponta | Figura 3b: Percentual de Consumo Ponta e Fora da Ponta |
 
 # Conclusões
 ~~~
