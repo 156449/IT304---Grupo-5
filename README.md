@@ -216,7 +216,8 @@ A próxima etapa deste trabalho apresentará um estudo de viabilidade de migraç
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 
-
+# Referências
+[1] ANEEL. RESOLUÇÃO NORMATIVA Nº 414. 11. ed. [S.l.]: AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA, 2010
 
 
 # Model for Project Presentation and Folder Structure (in Portuguese)
