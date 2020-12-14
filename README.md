@@ -218,7 +218,7 @@ A próxima etapa deste trabalho apresentará um estudo de viabilidade de migraç
 
 [4] FILHO, J. Instalacoes eletricas industriais. Livros Tecnicos e Cientificos, 2002.ISBN 9788521612865. Disponível em: <https://books.google.com.br/books?id=Bk5LAAAACAAJ>.
 
-[5] SILVA, D. M. Análise Qualitativa de Medidas para Redução de Custos Industriais com Energia Elétrica. Dissertação (Mestrado) — Universidade de São Paulo, Escola de Engenharia de São Carlos, Brasil, 2012.
+[5] SILVA, D. M. Análise Qualitativa de Medidas para Redução de Custos Industriais com Energia Elétrica. Dissertação (TCC) — Universidade de São Paulo, Escola de Engenharia de São Carlos, Brasil, 2012.
 
 # Model for Project Presentation and Folder Structure (in Portuguese)
 
