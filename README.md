@@ -133,7 +133,11 @@ A Figura 6a apresenta os custos mensais da energia consumida, em R$, nos períod
 
 A partir das Figuras 1a-6b é possível observar que a energia consumida no período de ponta é inferior a 10% em todos os meses analisados, o que indica uma potencial preocupação com a gestão do consumo de energia nesse período. Apesar de a energia consumida no período de ponta representar menos de 10%, esta contribui com aproximadamente 25% dos custos mensais totais. Nota-se também que de um ano para outro ocorre uma elevação tanto nas tarifas do período de ponta quanto fora da ponta. De forma geral, nos três anos estudados a tarifa no período de ponta é aproximadamente quatro vezes maior do que a tarifa no período fora de ponta.
             
+## Análise de Reativos
+Nesta subseção tem por objetivo realizar uma análise de reativos de nossa unidade de carga, em uma primeira etapa a medição do fator de potência deve ser avaliada, podendo ser obtida de duas formas: Avaliação horária e Avaliação mensal
 
+### Avaliação horária
+O fator de potência será calculado através dos valores de potência/energia ativa e reativa medidos a cada intervalo de 1 hora, durante o período de faturamento considerando os postos tarifários (Horário de ponta e fora de ponta).
             
 # Conclusões
 ~~~
