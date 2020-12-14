@@ -117,18 +117,39 @@ A Figura 4a apresenta os custos mensais da energia consumida, em R$, nos períod
 
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Proporção2017.svg?raw=true) |
 |:--:|:--:|
-| Figura 34a: Consumo Ponta e Fora da Ponta | Figura 4b: Percentual de Consumo Ponta e Fora da Ponta |
+| Figura 4a: Consumo Ponta e Fora da Ponta | Figura 4b: Percentual de Consumo Ponta e Fora da Ponta |
 
+A Figura 5a apresenta os custos mensais da energia consumida, em R$, nos períodos de ponta e fora da ponta para o ano de 2018. A Figura 5b apresenta o percentual dos custos totais mensais de energia consumida considerando os períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2018 o custo da energia consumida no período de ponta representa aproximadamente 25% dos custos totais com a energia consumida naquele mês. Vale ressaltar que nesse ano o kWh no período de ponta custou em média R$ 1,2653 e no período fora de ponta este valor custou em média R$ 0,3530.
+
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Proporção2018.svg?raw=true) |
+|:--:|:--:|
+| Figura 5a: Consumo Ponta e Fora da Ponta | Figura 5b: Percentual de Consumo Ponta e Fora da Ponta |
+
+A Figura 6a apresenta os custos mensais da energia consumida, em R$, nos períodos de ponta e fora da ponta para o ano de 2019. A Figura 6b apresenta o percentual dos custos totais mensais de energia consumida considerando os períodos de ponta e fora de ponta para esse mesmo ano. Pode ser observado que em todos os meses do ano de 2019 o custo da energia consumida no período de ponta representa aproximadamente 25% dos custos totais com a energia consumida naquele mês. Vale ressaltar que nesse ano o kWh no período de ponta custou em média R$ 1,3427 e no período fora de ponta este valor custou em média R$ 0,3900.
+
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Custos2019.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Proporção2019.svg?raw=true) |
+|:--:|:--:|
+| Figura 6a: Consumo Ponta e Fora da Ponta | Figura 6b: Percentual de Consumo Ponta e Fora da Ponta |
+
+A partir das Figuras 1a-6b é possível observar que a energia consumida no período de ponta é inferior a 10% em todos os meses analisados, o que indica uma potencial preocupação com a gestão do consumo de energia nesse período. Apesar de a energia consumida no período de ponta representar menos de 10%, esta contribui com aproximadamente 25% dos custos mensais totais. Nota-se também que de um ano para outro ocorre uma elevação tanto nas tarifas do período de ponta quanto fora da ponta. De forma geral, nos três anos estudados a tarifa no período de ponta é aproximadamente quatro vezes maior do que a tarifa no período fora de ponta.
+            
+
+            
 # Conclusões
 ~~~
 <Apresente aqui as conclusões finais do trabalho e as lições aprendidas.>
 ~~~
+No presente trabalho as análises preliminares foram abordadas como: Análise do consumo de energia, análise de Demanda, análise de reativos e e análise de crescimento de nossa unidade de carga escolhida (Centro Tecnológico da Universidade Federal do Rio de Janeiro), podendo-se concluir o seguinte: 
+
+Na análise de consumo, os resultados obtidos evidenciam a necessidade de se implantar uma prática de economia de gastos com energia elétrica buscando consumir o mínimo possível em períodos de ponta, conduzindo a unidade consumidora a uma redução nos gastos com energia elétrica.
+
+Na análise de reativos, foi verificado que nossa unidade de carga (CT/UFRJ) possui fator de potência abaixo do valor mínimo de acordo com a legislação brasileira. Portanto, é necessário tomar medidas para a correção do fator de potência. Este trabalho não tem como objetivo avaliar quais medidas seriam as melhores, porém, elas poderiam ser estudadas para a próxima etapa.
 
 # Trabalhos Futuros
 ~~~
 <Indique trabalhos futuros a partir do ponto alcançado.>
 ~~~
-
+A próxima etapa deste trabalho apresentará um estudo de viabilidade de migração para o Mercado Livre, utilizando preferencialmente técnicas de Data Science, Machine Learning, Forecasting, entre outras, para fundamentar a sua análise e corroborar a possibilidade da migração.
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
