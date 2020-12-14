@@ -1,6 +1,6 @@
 # IT304 - Tópicos em Sistemas de Energia Elétrica I <br/> Comercialização de Energia Elétrica para Grandes Clientes
 
-# Projeto: Pré-análise das Faturas - UFRJ/Centro de Tecnologia
+# Pré-análise das Faturas - UFRJ/Centro de Tecnologia
 
 # Descrição Resumida do Projeto
 
@@ -38,7 +38,6 @@ Os objetivos deste estudo se resumem em verificar se há a possibilidade de migr
 # Recursos e Métodos
 
 ## Bases de Dados
-`<Elencar bases de dados utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 
 A Tabela 1 apresenta uma descrição dos dados utilizados no projeto referente as faturas de energia dos anos de 2017, 2018 e 2019, bem como traz um link para encontrar os dados disponíveis no aplicativo Google Drive. Além dos links, os dados estão disponíveis na pasta /data no formato .xlsx.
 
@@ -57,7 +56,7 @@ Tabela 2: Ferramentas Computacionais utilizadas
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
 Google Sheets | https://www.google.com/sheets/about/ | Ferramenta para construção de planilhas de dados online. Usada para digitalizar as faturas de energia.
-LibreOfice Calc | https://pt-br.libreoffice.org/descubra/calc/ | Ferramenta para construção de planilhas de dados de código aberto. Usada para digitalizar as faturas de energia.
+LibreOffice Calc | https://pt-br.libreoffice.org/descubra/calc/ | Ferramenta para construção de planilhas de dados de código aberto. Usada para digitalizar as faturas de energia.
 Jupyter Notebook | https://jupyter.org/ | Editor Python no formato Notebook. Usada para gerar as curvas/gráficos apresentados no trabalho.
 
 # Metodologia
