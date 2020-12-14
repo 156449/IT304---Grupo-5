@@ -89,14 +89,22 @@ plt.show();
 
 A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?>
 ~~~
+## Análise do Consumo de Energia
 
+### Consumo de Energia
 
+A Figura 1 apresenta o total mensal de energia consumida, em MWh, nos períodos de ponta e nos períodos fora de ponta para o ano de 2017.
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2017.svg?raw=true) |
 |:--:| 
-| Consumo Ponta e Fora da Ponta - 2017. |
+| Figura 1: Consumo Ponta e Fora da Ponta - 2017 |
 
+ A Figura 2 apresenta o percentual do total mensal de energia consumida considerando os períodos de ponta e fora de ponta para o ano de 2017.
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true) |
+|:--:| 
+| Figura 2: Percentual de Consumo Ponta e Fora da Ponta - 2017 |
 
-![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2017.svg?raw=true)
+Pode ser observado que em todos os meses do ano de 2017 a energia consumida no período de ponta foi inferior a 10\% da energia total consumida naquele mês.
+
 ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2018.svg?raw=true)
 ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ProporçãoConsumo2018.svg?raw=true)
 ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Consumo2019.svg?raw=true)
