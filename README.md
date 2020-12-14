@@ -153,7 +153,7 @@ O fator de potência será calculado através de valores de potência/energia at
 
 Para o cálculo do fator de potência por mês, foram utilizados os dados de demanda de potência ativa e reativa durante o período de 2017 a 2019, que possuem registro a cada 15 minutos. O valor considerado do fator de potência para uma determinado mês foi determinado como a média dos dados do mês correspondente. Os resultados obtidos foram ilustrados na Figura 8
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/FP_Mesal.svg?raw=true) | 
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/FP_Mensal.svg?raw=true) | 
 |:--:|
 | Figura 8: Fator de Potência Mês/Ano - Avaliação Mensal | 
 
