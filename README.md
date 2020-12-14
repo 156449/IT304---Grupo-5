@@ -134,26 +134,26 @@ A Figura 6a apresenta os custos mensais da energia consumida, em R$, nos períod
 A partir das Figuras 1a-6b é possível observar que a energia consumida no período de ponta é inferior a 10% em todos os meses analisados, o que indica uma potencial preocupação com a gestão do consumo de energia nesse período. Apesar de a energia consumida no período de ponta representar menos de 10%, esta contribui com aproximadamente 25% dos custos mensais totais. Nota-se também que de um ano para outro ocorre uma elevação tanto nas tarifas do período de ponta quanto fora da ponta. De forma geral, nos três anos estudados a tarifa no período de ponta é aproximadamente quatro vezes maior do que a tarifa no período fora de ponta.
             
 ## Análise de Reativos
-Nesta subseção tem por objetivo realizar uma análise de reativos de nossa unidade de carga, em uma primeira etapa a medição do fator de potência deve ser avaliada, podendo ser obtida de duas formas: Avaliação horária e Avaliação mensal
+Nesta subseção tem por objetivo realizar uma análise de reativos de nossa unidade de carga, em uma primeira etapa a medição do fator de potência deve ser avaliada, podendo ser obtida de duas formas: Avaliação horária e Avaliação mensal [4]
 
 ### Avaliação horária
 O fator de potência será calculado através dos valores de potência/energia ativa e reativa medidos a cada intervalo de 1 hora, durante o período de faturamento considerando os postos tarifários (Horário de ponta e fora de ponta).
 
 Para o cálculo do fator de potência avaliado de hora em hora, foram utilizados os dados de demanda de potência ativa e reativa durante o período de 2017 a 2019, que possuem registro a cada 15 minutos. O valor considerado do fator de potência para uma determinada hora foi determinado como a média dos dados entre uma hora e outra. Os resultados obtidos foram ilustrados nas Figuras 7a-c
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/2018_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/2019_Diario_Reativos.svg?raw=true) |
 |:--:|:--:|:--:|
 | Figura 7a: Curva do Fator de Potência 2017 | Figura 7b: Curva do Fator de Potência 2018 |Figura 7c: Curva do Fator de Potência 2019 |
 
 
-As Figuras 7a-c mostram as curvas do fator de potência durante um dia para durante o período de 2017 a 2019, respectivamente. O horário de ponta é das 17h30 às 20h30 conforme estipulado pelo posto de tarifação da concessionária Light  \cite{ANEEL_1}, que está marcada com uma caixa roxa. Observa-se que os valores de fator de potência obtidos na faixa de 6:30 a 23:59 horas estão abaixo do valor 0,90. Em particular, verifica-se que às sextas-feiras e sábados são obtidos os valores mínimos de fator de potência, sendo o valor mínimo 0,663 obtido em 2018. Por outro lado, na faixa dos horários de ponta, obteve-se um fator de potência mínimo de 0,727 em. 2018. Essa análise verifica se os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira (PRODIST – Módulo 8 e ANEEL Res. 414)
+As Figuras 7a-c mostram as curvas do fator de potência durante um dia para durante o período de 2017 a 2019, respectivamente. O horário de ponta é das 17h30 às 20h30 conforme estipulado pelo posto de tarifação da concessionária Light [2], que está marcada com uma caixa roxa. Observa-se que os valores de fator de potência obtidos na faixa de 6:30 a 23:59 horas estão abaixo do valor 0,90. Em particular, verifica-se que às sextas-feiras e sábados são obtidos os valores mínimos de fator de potência, sendo o valor mínimo 0,663 obtido em 2018. Por outro lado, na faixa dos horários de ponta, obteve-se um fator de potência mínimo de 0,727 em. 2018. Essa análise verifica se os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira (PRODIST – Módulo 8 e ANEEL Res. 414) [3].
 
 ### Avaliação mensal
 O fator de potência será calculado através de valores de potência/energia ativa e reativa medidos para o período de faturamento (tarifa convencional).
 
 Para o cálculo do fator de potência por mês, foram utilizados os dados de demanda de potência ativa e reativa durante o período de 2017 a 2019, que possuem registro a cada 15 minutos. O valor considerado do fator de potência para uma determinado mês foi determinado como a média dos dados do mês correspondente. Os resultados obtidos foram ilustrados na Figura 8
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/FP_Mensal.svg?raw=true) | 
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/FP_Mensal.svg?raw=true) | 
 |:--:|
 | Figura 8: Fator de Potência Mês/Ano - Avaliação Mensal | 
 
@@ -161,17 +161,17 @@ Na Figura 8 são apresentados os valores de fator de potência obtidos nos difer
 
 ### Faturamento da Energia Reativa Excedente
 
-Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência  \cite{ANEEL_3}. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme á llegislação brasileira. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
+Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência [1]. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme á llegislação brasileira. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
 
 A seguir, são apresentados os gráficos de barras do faturamento do excedente de energia reativa [R\$], obtidos nas contas mensais de energia durante o período de 2017 a 2019:
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2019.svg?raw=true) |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativos2019.svg?raw=true) |
 |:--:|:--:|:--:|
 | Figura 9a: Facturamento da Energia Reativa Excedente 2017 | Figura 9b: Facturamento da Energia Reativa Excedente 2018 |Figura 9c: Facturamento da Energia Reativa Excedente 2019 |
 
 Nas Figuras 9a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Figura 10a. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura 10b.
 
-| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/Resumo_FER.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativosResumo.svg?raw=true) | 
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/Resumo_FER.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/assets/ExcedenteReativosResumo.svg?raw=true) | 
 |:--:|:--:|
 | Figura 10a: Facturamento da Energia Reativa Excedente Total |Figura 10b: Facturamento da Energia Reativa Excedente Total |
 
@@ -209,15 +209,12 @@ Na análise de reativos, foi verificado que nossa unidade de carga (CT/UFRJ) pos
 ~~~
 A próxima etapa deste trabalho apresentará um estudo de viabilidade de migração para o Mercado Livre, utilizando preferencialmente técnicas de Data Science, Machine Learning, Forecasting, entre outras, para fundamentar a sua análise e corroborar a possibilidade da migração.
 
-# --------------------------------------------------------------------------
-# --------------------------------------------------------------------------
-# --------------------------------------------------------------------------
-# --------------------------------------------------------------------------
-# --------------------------------------------------------------------------
-# --------------------------------------------------------------------------
-
 # Referências
-[1] ANEEL. RESOLUÇÃO NORMATIVA Nº 414. 11. ed. [S.l.]: AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA, 2010
+[1] ANEEL. RESOLUÇÃO NORMATIVA Nº 414. 11. ed. [S.l.]: AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA, 2010.
+[2] ANEEL. Postos Tarifários. 2020. [Online; accessed 12-Dezembro-2020]. Disponível em: <www.aneel.gov.br/postos-tarifarios>.
+[3] ANEEL. Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional – PRODIST. 11. ed. [S.l.]: Módulo 8 – Qualidade da Energia Elétrica, 2020.
+[4] FILHO, J. Instalacoes eletricas industriais. Livros Tecnicos e Cientificos, 2002. ISBN 9788521612865. Disponível em: <https://books.google.com.br/books?id=Bk5LAAAACAAJ>.
+[5] SILVA, D. M. Análise Qualitativa de Medidas para Redução de Custos Industriais com Energia Elétrica. Dissertação (TCC) — Universidade de São Paulo, Escola de Engenharia de São Carlos, Brasil, 2012.
 
 
 # Model for Project Presentation and Folder Structure (in Portuguese)
