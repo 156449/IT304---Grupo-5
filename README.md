@@ -148,6 +148,14 @@ Para o cálculo do fator de potência avaliado de hora em hora, foram utilizados
 
 As Figuras 7a-c mostram as curvas do fator de potência durante um dia para durante o período de 2017 a 2019, respectivamente. O horário de ponta é das 17h30 às 20h30 conforme estipulado pelo posto de tarifação da concessionária Light  \cite{ANEEL_1}, que está marcada com uma caixa roxa. Observa-se que os valores de fator de potência obtidos na faixa de 6:30 a 23:59 horas estão abaixo do valor 0,90. Em particular, verifica-se que às sextas-feiras e sábados são obtidos os valores mínimos de fator de potência, sendo o valor mínimo 0,663 obtido em 2018. Por outro lado, na faixa dos horários de ponta, obteve-se um fator de potência mínimo de 0,727 em. 2018. Essa análise verifica se os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira (PRODIST – Módulo 8 e ANEEL Res. 414)
 
+### Avaliação mensal
+O fator de potência será calculado através de valores de potência/energia ativa e reativa medidos para o período de faturamento (tarifa convencional).
+
+Para o cálculo do fator de potência por mês, foram utilizados os dados de demanda de potência ativa e reativa durante o período de 2017 a 2019, que possuem registro a cada 15 minutos. O valor considerado do fator de potência para uma determinado mês foi determinado como a média dos dados do mês correspondente. Os resultados obtidos foram ilustrados na Figura 8
+
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/FP_Mesal.svg?raw=true) | 
+|:--:|
+| Figura 8: Fator de Potência Mês/Ano - Avaliação Mensal | 
 
 # Conclusões
 ~~~
