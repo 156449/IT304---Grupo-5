@@ -161,9 +161,13 @@ Na Figura 8 são apresentados os valores de fator de potência obtidos nos difer
 
 ### Faturamento da Energia Reativa Excedente
 
-Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência  \cite{ANEEL_3}. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme pode ser observado na equação \eqref{eq:FER_1}. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
+Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência  \cite{ANEEL_3}. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme á llegislação brasileira. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
 
-$$|\vec{A}|=\sqrt{A_x^2 + A_y^2 + A_z^2}.$$(1)
+A seguir, são apresentados os gráficos de barras do faturamento do excedente de energia reativa [R\$], obtidos nas contas mensais de energia durante o período de 2017 a 2019:
+
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
+|:--:|:--:|:--:|
+| Figura 8a: Curva do Fator de Potência 2017 | Figura 8b: Curva do Fator de Potência 2018 |Figura 8c: Curva do Fator de Potência 2019 |
 
 # Conclusões
 ~~~
