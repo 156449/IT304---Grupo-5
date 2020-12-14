@@ -5,11 +5,10 @@ Pré-análise das faturas de energia do Centro de Tecnlogia da UFRJ
 # Projeto `Pré-análise: UFRJ/Centro de Tecnologia`
 
 # Descrição Resumida do Projeto
-~~~
+
 Este trabalho apresenta uma pré-análise das faturas de energia elétrica do Centro de Tecnologia (CT) da Universidade Federal do Rio de Janeiro para os anos de 2017, 2018 e 2019. Primeriamente, é apresentada uma breve descrição do CT, apresentando sua localização, o número de alunos que frequentam esta unidade, qual a concessionária de energia elétrica que atende esta UC, qual o grupo de consumidores no qual esta UC está inserida, além de alguns outros aspectos que possam auxiliar no entendimento da UC estudada.
 
 Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis, como por exemplo se há ou não a ausência de faturas, análises sobre o perfil de consumo da UC considerando os períodos de ponta e fora da ponta, além de uma análise dos custos devido a este perfil de consumo. São realizadas também análises da demanda contratada, buscando identificar se esta está adequada para a UC em questão. Por fim, são realizadas análises sobre o fator de potência da UC, buscando identificar se há excesso de reativos e se há a necessidade de realizar a correção do fator de potência.
-~~~
 
 # Abstract in English
 ~~~
