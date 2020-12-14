@@ -181,7 +181,7 @@ Nas Figuras 9a-c mostram os custos devido ao excedente de potência reativa dura
 
 
 ### Medidas para Redução de Custo por Energia Reativa Excedente
-Nesta subseção, descreveremos algumas medidas para reduzir o custo da energia reativa excedente \cite{Silva2012TCC}, uma vez que foi verificado que nossa unidade de carga (CT) estudada possui um fator de potência abaixo do valor mínimo[5].
+Nesta subseção, descreveremos algumas medidas para reduzir o custo da energia reativa excedente[5], uma vez que foi verificado que nossa unidade de carga (CT) estudada possui um fator de potência abaixo do valor mínimo.
 
 #### Substituição de equipamentos por outros mais eficientes: 
 É a readequação do sistema de iluminação e climatização, até a substituição dos motores por outros mais eficientes, existem várias tecnologias no mercado para melhorar a eficiência.
@@ -198,9 +198,7 @@ São os processos necessários para melhorar o desempenho de energia, incluindo 
 
 
 # Conclusões
-~~~
-<Apresente aqui as conclusões finais do trabalho e as lições aprendidas.>
-~~~
+
 No presente trabalho as análises preliminares foram abordadas como: Análise do consumo de energia, análise de Demanda, análise de reativos e e análise de crescimento de nossa unidade de carga escolhida (Centro Tecnológico da Universidade Federal do Rio de Janeiro), podendo-se concluir o seguinte: 
 
 Na análise de consumo, os resultados obtidos evidenciam a necessidade de se implantar uma prática de economia de gastos com energia elétrica buscando consumir o mínimo possível em períodos de ponta, conduzindo a unidade consumidora a uma redução nos gastos com energia elétrica.
@@ -208,9 +206,7 @@ Na análise de consumo, os resultados obtidos evidenciam a necessidade de se imp
 Na análise de reativos, foi verificado que nossa unidade de carga (CT/UFRJ) possui fator de potência abaixo do valor mínimo de acordo com a legislação brasileira. Portanto, é necessário tomar medidas para a correção do fator de potência. Este trabalho não tem como objetivo avaliar quais medidas seriam as melhores, porém, elas poderiam ser estudadas para a próxima etapa.
 
 # Trabalhos Futuros
-~~~
-<Indique trabalhos futuros a partir do ponto alcançado.>
-~~~
+
 A próxima etapa deste trabalho apresentará um estudo de viabilidade de migração para o Mercado Livre, utilizando preferencialmente técnicas de Data Science, Machine Learning, Forecasting, entre outras, para fundamentar a sua análise e corroborar a possibilidade da migração.
 
 # Referências
