@@ -167,10 +167,20 @@ A seguir, são apresentados os gráficos de barras do faturamento do excedente d
 
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2017.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2018.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativos2019.svg?raw=true) |
 |:--:|:--:|:--:|
-| Figura 8a: CFacturamento da Energia Reativa Excedente 2017 | Figura 8b: Facturamento da Energia Reativa Excedente 2018 |Figura 8c: Facturamento da Energia Reativa Excedente 2019 |
+| Figura 9a: CFacturamento da Energia Reativa Excedente 2017 | Figura 9b: Facturamento da Energia Reativa Excedente 2018 |Figura 9c: Facturamento da Energia Reativa Excedente 2019 |
 
 Nas Figuras 8a-c mostram os custos devido ao excedente de potência reativa durante o período de 2017 a 2019. Observando que os custos nas horas fora de ponta são maiores que as horas de ponta, isso faz sentido já que o horário de ponta só cobre 03 horas por dia. Os valores médios e totais calculados são apresentados na Tabela~\ref{Tab:Resumo_AR}. Adicionalmente, o comportamento do faturamento total por mês e em seu respectivo ano pode ser visualizado na Figura\,\ref{fig:ExcedenteReativosResumo.eps}.
 
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/FER_Equation.PNG?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/ExcedenteReativosResumo.svg?raw=true) | 
+|:--:|:--:|
+| Figura 11a: CFacturamento da Energia Reativa Excedente 2017 |Figura 11b: CFacturamento da Energia Reativa Excedente 2017 |
+
+
+### Medidas para Redução de Custo por Energia Reativa Excedente
+Nesta subseção, descreveremos algumas medidas para reduzir o custo da energia reativa excedente \cite{Silva2012TCC}, uma vez que foi verificado que nossa unidade de carga (CT) estudada possui um fator de potência abaixo do valor mínimo.
+
+#### Substituição de equipamentos por outros mais eficientes: 
+É a readequação do sistema de iluminação e climatização, até a substituição dos motores por outros mais eficientes, existem várias tecnologias no mercado para melhorar a eficiência.
 
 # Conclusões
 ~~~
