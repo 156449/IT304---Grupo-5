@@ -1,5 +1,3 @@
-https://mybinder.org/v2/gh/156449/IT304---Grupo-5.git/HEAD
-
 # IT304 - Tópicos em Sistemas de Energia Elétrica I <br/> Comercialização de Energia Elétrica para Grandes Clientes
 
 # Projeto: Pré-análise das Faturas - UFRJ/Centro de Tecnologia
@@ -30,15 +28,11 @@ Em seguida, são realizadas análises acerca da qualidade dos dados disponíveis
 ~~~
 
 ## Perguntas de Pesquisa
-~~~
-<Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.>
-~~~
+
 Este estudo tem como objetivo realizar diferentes análises preliminares para determinar a possibilidade de migração de um contrato de energia elétrica do Ambiente de Contratação Regulada para o Ambiente de Contratação Livre (ACR/ACL) como medida econômica. Esta análise está limitada ao Centro de Tecnologia da UFRJ, unidade consumidora escolhida para análise.
 
 ## Objetivos do Projeto
-~~~
-<Como seu projeto propôs abordar o problema apresentado.>
-~~~
+
 Os objetivos deste estudo se resumem em verificar se há a possibilidade de migração de um contrato de energia elétrica do Ambiente de Contratação Regulada para o Ambiente de Contratação Livre (ACR/ACL) para a unidade consumidora escolhida. Para tal, serão realizadas análises acerca da qualidade dos dados disponíveis, como por exemplo se há ou não a ausência de faturas. Em seguida, serão realizadas análises buscando identificar o perfil de consumo da unidade consumidora em questão considerando o consumo nos períodos de ponta e fora da ponta, além de uma análise dos custos decorrentes deste perfil de consumo. Serão realizadas também análises sobre a demanda contratada, buscando identificar se esta está adequada para a unidade consumidora em questão ou se há a necessidade de uma revisão da demanda contrada. Por fim, serão realizadas análises sobre o fator de potência da unidade consumidora, buscando identificar se o fator de potência esta dentro dos limites estabelcidos pelas normas ou se há a necessidade da realização da correção do fator de potência da instalação. Todas as análises serão realizadas para os anos de 2017, 2018 e 2019.
 
 # Recursos e Métodos
@@ -57,10 +51,13 @@ Ano de 2019 | https://drive.google.com/file/d/17Gyi0AzNh-rDwgOLgIPcGGlBRSPz0wwe/
 
 ## Ferramentas
 
-`<Elencar ferramentas utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
+A Tabela 2 apresenta uma descrição das ferramentas computacionais utilizadas no projeto juntamente a uma breve descrição de cada uma.
+
+Tabela 2: Ferramentas Computacionais utilizadas
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
 Google Sheets | https://www.google.com/sheets/about/ | Ferramenta para construção de planilhas de dados online. Usada para digitalizar as faturas de energia.
+LibreOfice Calc | https://pt-br.libreoffice.org/descubra/calc/ | Ferramenta para construção de planilhas de dados de código aberto. Usada para digitalizar as faturas de energia.
 Jupyter Notebook | https://jupyter.org/ | Editor Python no formato Notebook. Usada para gerar as curvas/gráficos apresentados no trabalho.
 
 # Metodologia
@@ -69,30 +66,13 @@ Jupyter Notebook | https://jupyter.org/ | Editor Python no formato Notebook. Usa
 ~~~
 
 ## Detalhamento do Projeto
-~~~
-<Apresente aqui detalhes da análise. Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
 
-Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.>
-~~~
+O código em Python/JupyterNotebook desenvolvido para produzir as figuras apresentadas nos Resultados e Discussão pode ser acessado através do link abaixo. Este script pode ser executado online, sem necessidade de instalção ou download dos dados. 
 
-~~~python
-df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
-sns.set(color_codes=True);
-sns.distplot(df.Hemoglobin);
-plt.show();
-~~~
-
-## Evolução do Projeto
-~~~
-<Relate a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.>
-~~~
+Script Desenvolvido | https://mybinder.org/v2/gh/156449/IT304---Grupo-5.git/HEAD
 
 # Resultados e Discussão
-~~~
-<Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
 
-A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?>
-~~~
 ## Análise do Consumo de Energia
 
 ### Consumo de Energia
