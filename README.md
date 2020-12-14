@@ -157,6 +157,13 @@ Para o cálculo do fator de potência por mês, foram utilizados os dados de dem
 |:--:|
 | Figura 8: Fator de Potência Mês/Ano - Avaliação Mensal | 
 
+Na Figura 8 são apresentados os valores de fator de potência obtidos nos diferentes meses do ano durante o período de 2017 e 2019. Pode-se observar que os valores de fator de potência estão abaixo do valor limite mínimo de 0,92 de acordo com a legislação brasileira. Sendo o valor mais crítico de 0,798 ocorreu no mês de fevereiro de 2018.
+
+### Faturamento da Energia Reativa Excedente
+
+Existem dois tipos de faturamento de energia reativa excedente: avaliação horária e avaliação mensal do fator de potência  \cite{ANEEL_3}. No primeiro caso, considera-se para cada posto de tarifação, ou seja, horários de pico e fora de pico, para os quais são necessários os valores de fator de potência registrados em cada hora, conforme pode ser observado na equação \eqref{eq:FER_1}. Por outro lado, na a avaliação mensal é considerada apenas uma tarifa convencional avaliada a cada mês. Para o nosso estudo de caso, a concessionária Light inclui o faturamento do excesso de energia reativa calculada com a avaliação horária na conta de energia.
+
+
 # Conclusões
 ~~~
 <Apresente aqui as conclusões finais do trabalho e as lições aprendidas.>
