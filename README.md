@@ -144,6 +144,9 @@ Para o cálculo do fator de potência avaliado de hora em hora, foram utilizados
 | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2017_Diario_Reativos.svg?raw=true) | ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2018_Diario_Reativos.svg?raw=true) |
 |:--:|:--:|
 | Figura 7a: Consumo Ponta e Fora da Ponta | Figura 7b: Percentual de Consumo Ponta e Fora da Ponta |
+| ![alt text](https://github.com/156449/IT304---Grupo-5/blob/main/2019_Diario_Reativos.svg?raw=true) |
+|:--:|
+| Figura 7c: Consumo Ponta e Fora da Ponta |
 
 # Conclusões
 ~~~
